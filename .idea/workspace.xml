@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ed1406c-7c15-4c75-b437-1a2e29c92d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hoc/asyncComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Blog/Blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Blog/Blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Blog/FullPost/FullPost.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Blog/FullPost/FullPost.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Blog/NewPost/NewPost.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Blog/NewPost/NewPost.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Blog/Posts/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Blog/Posts/Posts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +55,7 @@
       <workItem from="1606239884534" duration="859000" />
       <workItem from="1606323845319" duration="487000" />
       <workItem from="1606325813702" duration="4566000" />
-      <workItem from="1606647942469" duration="15312000" />
+      <workItem from="1606647942469" duration="16014000" />
     </task>
     <servers />
   </component>

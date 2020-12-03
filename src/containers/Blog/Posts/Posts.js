@@ -35,7 +35,6 @@ class Posts extends Component {
     this.props.history.push({pathname: '/posts/' + id});
   }
 
-
   render(){
     let posts = <p style={{textAlign: 'center'}}>Something went wrong....</p>
     if (!this.state.error) {
